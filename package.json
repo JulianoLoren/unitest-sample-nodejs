@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "jest": "jest",
+        "mocha": "mocha"
+    },
+    "devDependencies": {
+        "jest": "^29.4.2"
+    },
+    "dependencies": {
+        "chai": "^4.3.7",
+        "mocha": "^10.2.0",
+        "save-dev": "^0.0.1-security"
+    }
+}
